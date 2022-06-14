@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/chart_ReactJS.git/static/css/main.0274be26.css",
-    "main.js": "/chart_ReactJS.git/static/js/main.fd896801.js",
-    "index.html": "/chart_ReactJS.git/index.html",
-    "main.0274be26.css.map": "/chart_ReactJS.git/static/css/main.0274be26.css.map",
-    "main.fd896801.js.map": "/chart_ReactJS.git/static/js/main.fd896801.js.map"
+    "main.css": "/chart_ReactJS/static/css/main.0274be26.css",
+    "main.js": "/chart_ReactJS/static/js/main.fd896801.js",
+    "index.html": "/chart_ReactJS/index.html",
+    "main.0274be26.css.map": "/chart_ReactJS/static/css/main.0274be26.css.map",
+    "main.fd896801.js.map": "/chart_ReactJS/static/js/main.fd896801.js.map"
   },
   "entrypoints": [
     "static/css/main.0274be26.css",
