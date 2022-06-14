@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+
+  &__inputWrap {
+    display: flex;
+    flex-direction: column;
+
+    &__label {
+      color: rgb(68, 68, 145);
+      font-weight: 500;
+      font-family:'Times New Roman', Times, serif;
+      font-size: 18px;
+    }
+
+    &__input {
+      width: 50%;
+      margin: auto;
+      padding: 5px;
+      border: 1px solid rgb(68, 68, 145);
+      border-radius: 20px;
+      color:rgb(68, 68, 145);
+      font-weight: 400;
+    }
+
+    &__input:focus {
+      color:  rgb(68, 68, 145);
+      outline:2px solid rgb(68, 68, 145);
+      font-weight: 600;
+    }
+  }
+}
